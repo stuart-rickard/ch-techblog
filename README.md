@@ -4,7 +4,7 @@
 
 This is a challenge project for the UC Berkeley Extension Full-Stack Developer Bootcamp Course. The challenge requires creation of a blog site that uses `handlebars` templating and a `SQL` database.
 
-![Screen Shot of Application](./public/tech blog radiant headland.jpg)
+![Screen Shot of Application](./public/tech_blog_radiant_headland.jpg)
 
 ## Table of Contents
 
